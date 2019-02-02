@@ -25,6 +25,6 @@ function iLoveTheBeatles(num){
     return i
   }
   do {
-    console.log('I love the Beatles!')
+    newArray.push('I love the Beatles!')
   } while (incrementVariable()<num)
 }
